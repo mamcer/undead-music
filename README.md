@@ -6,7 +6,7 @@ In `original` branch you will find the original source code for this application
 
 ## Description 
 
-UndeadMusic, not a happy name. The reason behind is because this project was started and shortly abandoned since 2014 (soulstone-2). At the beginning of 2016 I decided to finish the development of this dead-alive project at least at a MVP level. 
+UndeadMusic, not a happy name. The reason behind is because this project was started and shortly abandoned several times since 2014 (soulstone-2). At the beginning of 2016 I decided to finish the development of this dead-alive project at least at a MVP level. 
 
 The goal of the application is to control playlist and playback of music on remote computers in real time, nothing very different from soulstone-2.
 
