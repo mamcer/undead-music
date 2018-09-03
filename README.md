@@ -4,6 +4,8 @@ An ASP NET MVC, console and WPF application from 2016
 
 In `original` branch you will find the original source code for this application. In `master` an upgraded, refactored version.
 
+> More details about why I published this project in [this blog post](https://mamcer.github.io/2018-09-02-i-cleaned-up-my-virtual-basement/)
+
 ## Description 
 
 UndeadMusic, not a happy name. The reason behind is because this project was started and shortly abandoned several times since 2014 ([soulstone-2](https://github.com/mamcer/soulstone-2)). At the beginning of 2016 I decided to finish the development of this dead-alive project at least at a MVP level. 
